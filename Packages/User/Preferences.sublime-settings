@@ -16,7 +16,7 @@
 
 
 	// Let The Vintage Be!!
-	"command_mode": true,
+	"command_mode": false, // Command mode in ST is retarded
 	"ignored_packages":
 	[
 	],
