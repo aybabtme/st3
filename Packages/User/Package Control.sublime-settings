@@ -1,6 +1,8 @@
 {
 	"installed_packages":
 	[
-		"Package Control"
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Soda"
 	]
 }
